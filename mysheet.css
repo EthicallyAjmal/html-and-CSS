@@ -29,7 +29,7 @@
 .footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
-    color: rgb(34, 33, 33);
+    color: rgb(77, 75, 75);
     text-align: center;
     height: 75px;
     background-color: black;
@@ -44,7 +44,7 @@
 .last{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
-    color: rgb(34, 33, 33);
+    color: rgb(77, 75, 75);
     text-align: center;
     height: 75px;
     background-color: black;
@@ -57,12 +57,12 @@
     padding-top: 0;
 }
 .in-a{
-    color: rgb(34, 33, 33);
+    color: rgb(77, 75, 75);
     padding-left: 10px;
 }
 .in-pro{
     padding-left: 30px;
-    color: rgb(34, 33, 33);
+    color: rgb(77, 75, 75);
 }
 .submit{
     color: white;
@@ -158,7 +158,7 @@
 .top-banner{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
-    color: rgb(34, 33, 33);
+    color: rgb(77, 75, 75);
     text-align: center;
     height: 75px;
     background-color: black;
@@ -234,15 +234,15 @@
 
     }
     .name{
-        width: 250px;
+        width: auto;
         border-radius: 5px;
     }
     .email{
-        width: 251px;
+        width: auto;
         border-radius: 5px;
     }
     .message{
-        width: 220px;
+        width: auto;
         border-radius: 5px;
         height: 90px;
     }
@@ -264,6 +264,8 @@
 .container1{
     grid-template-columns: auto;
     grid-template-rows: auto;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .btn{
     color: white;
@@ -273,7 +275,7 @@
     border-radius: 12px;
 }
 .mid-inner{
-    width: 60%;
+    width: 90%;
     padding: 20px 20px 25px 25px;
 }
 .in-p{
